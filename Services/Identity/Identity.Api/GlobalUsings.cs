@@ -1,0 +1,13 @@
+﻿global using IdentityModel;
+global using System.Security.Claims;
+global using IdentityServer4.Models;
+global using Identity.Api;
+global using IdentityServer4.Test;
+global using Identity.Persistence;
+global using Microsoft.AspNetCore.Identity;
+global using Identity.Domain;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Identity.Api.Models;
+global using Microsoft.AspNetCore.Mvc;
